@@ -1,3 +1,4 @@
+//7. Se da un numar natural N. Sa se afiseze suma bitiilor fiecarui numar de la 1 la N.
 #include <stdio.h>
 #include <stdlib.h>
 
