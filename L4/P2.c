@@ -1,3 +1,5 @@
+//2. Sa se scrie un program care insumeaza elementele intr-o metoda
+//separate de metoda main, folosind transmiterea prin referinta.
 #include <stdio.h>
 #include <stdlib.h>
 void Suma(int x[], int n, int *S)
